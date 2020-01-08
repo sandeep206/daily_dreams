@@ -1,0 +1,18 @@
+{
+  "name": "daily_dreams",
+  "version": "1.0.0",
+  "description": "note down the daily dreams and make a plan to realise it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start_dreaming"
+  },
+  "keywords": [
+    "dreams"
+  ],
+  "author": "sandeep sasidharan",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.1.0",
+    "inquirer": "^7.0.3"
+  }
+}
